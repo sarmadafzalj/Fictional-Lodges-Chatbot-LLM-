@@ -1,0 +1,11 @@
+langchain==0.0.336
+openai==0.27.8
+tiktoken==0.4.0
+streamlit==1.28.2
+python-dotenv==1.0.0
+tenacity==8.2.2
+termcolor==2.3.0
+pandas
+numpy
+mysql-connector-python==8.0.33
+python-dotenv
