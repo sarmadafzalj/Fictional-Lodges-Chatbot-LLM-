@@ -33,3 +33,7 @@ password="Your MySQL Pass"
 database='travelbot' #database name
 
 Sample MySQL database schema file is also attached
+
+### Start the Chatbot
+streamlit run app.py
+
