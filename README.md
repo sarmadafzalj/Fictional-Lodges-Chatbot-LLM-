@@ -31,7 +31,7 @@ host='Your MYSQL Host'
 user='Your MYSQL user'
 password="Your MySQL Pass"
 database='travelbot' #database name
-
+```
 Sample MySQL database schema file is also attached
 
 ### Start the Chatbot
