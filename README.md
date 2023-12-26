@@ -26,12 +26,10 @@ Fictional Lodges Chatbot is a prompt-engineered application that leverages the p
 Adjust the configuration settings in `.env` file to match your environment and preferences.
 
 ```python
-OPENAI_API_KEY = ''
-DATABASE_CONFIG = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': 'your_password',
-    'database': 'travelbot'
-}
+OPENAI_API_KEY="Your KEY"
+host='Your MYSQL Host'
+user='Your MYSQL user'
+password="Your MySQL Pass"
+database='travelbot' #database name
 
 Sample MySQL database schema file is also attached
